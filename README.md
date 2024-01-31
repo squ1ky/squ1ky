@@ -1,3 +1,5 @@
+<!-- BLOG-POST-LIST:START -->
+
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/4e/9e/1f/4e9e1f5a41b738e3066d135da871a46c.gif" width="400" height = "250"/>
 </div>
@@ -38,3 +40,5 @@ I am a KFU student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squ1ky&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- BLOG-POST-LIST:END -->
