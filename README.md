@@ -3,26 +3,18 @@
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/4e/9e/1f/4e9e1f5a41b738e3066d135da871a46c.gif" width="400" height = "250"/>
 </div>
-<div id="badges" align="center"> 
-  <a href="https://vk.com/squ1ky">
-    <img src="https://img.icons8.com/?size=256&amp;id=48220" alt="VK Badge" width="100" height="100">
-  </a>
-  <a href="https://leetcode.com/katharsysss/">
-    <img src="https://img.icons8.com/?size=256&id=wDGo581Ea5Nf&format=png" width="100" height="100" alt="LeetCode Badge">
-  </a>
-</div>
 
 <h1>
   Artur Sabirzyanov
 </h1>
 
-I am a KFU student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazan.
+I am a KFU student from Kazan.
 
-- :telescope: I want to become Java Enterprise Developer.
+- I want to become Java Enterprise Developer.
 
-- :seedling: Exploring Java & Spring & Sql.
+- Exploring Java & Spring & Sql.
 
-- :zap: In my free time, I listen music and practice Alghoritms and DS.
+- In my free time, I listen music and practice Alghoritms and DS.
 
   
 ---
