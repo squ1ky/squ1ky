@@ -10,13 +10,6 @@
 
 I am a KFU student from Kazan.
 
-- I want to become Java Enterprise Developer.
-
-- Exploring Java & Spring & Sql.
-
-- In my free time, I listen music and practice Alghoritms and DS.
-
-  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
